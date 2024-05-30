@@ -7,7 +7,7 @@ export default function Home() {
     useEffect(() => {
       const proof = document.getElementById("proof");
       proof.addEventListener("click", function() {
-        window.open("http://localhost:3000/howtohelp")
+        window.open("https://savegaza.vercel.app/howtohelp")
       })
     }, [
   

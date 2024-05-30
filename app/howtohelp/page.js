@@ -11,7 +11,7 @@ export default function Home() {
             Step 1: Spread the word
             <br />
             <span className="font-light text-3xl text-neutral-400">
-                Use the hashtag #stopthis all across social media to spread the word!
+                Use the hashtag stopthis all across social media to spread the word!
             </span>
             <br />
             Step 2: Share your reason!
